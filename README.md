@@ -1,4 +1,5 @@
 # What I'm currently working with
+> Here is a languages and frameworks list below
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,bootstrap,mysql,mongodb,azure)](https://skillicons.dev)
 
