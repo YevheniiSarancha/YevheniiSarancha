@@ -1,6 +1,6 @@
 #What I'm currently working with
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,bootstrap,mysql,mongodb,azure)](https://skillicons.dev)
 
 <table cellpadding="0">
   <tr style="padding: 0">
