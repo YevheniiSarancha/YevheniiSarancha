@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,bootstrap,mysql,mongodb,azure)](https://skillicons.dev)
 
-#My GitHub stats
+# My GitHub stats
 
 <table cellpadding="0">
   <tr style="padding: 0">
