@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YevheniiSarancha&theme=dark&show_icons=true" style="height: 100%;" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiSarancha&theme=dark&layout=compact" style="height: 100%;" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YevheniiSarancha&theme=dark&show_icons=true" style="height: 100%;" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiSarancha&theme=dark&layout=compact" style="height: 100%;" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
