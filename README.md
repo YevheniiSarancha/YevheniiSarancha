@@ -3,6 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,bootstrap,mysql,mongodb,azure,selenium)](https://skillicons.dev)
 
+
 ## GitHub stats
 
 <table cellpadding="0">
@@ -13,6 +14,7 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
+
 
 ## Contact me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yevhenko_)
