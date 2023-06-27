@@ -1,4 +1,4 @@
-#What I'm currently working with
+# What I'm currently working with
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,bootstrap,mysql,mongodb,azure)](https://skillicons.dev)
 
