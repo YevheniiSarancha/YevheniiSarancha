@@ -14,9 +14,9 @@
   </tr>
 </table>
 
-#Social
+# Social
 > Contact me there
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yevhenko_)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yevhenko)
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-qboww&color=178600?style=for-the-badge" alt="Profile Views">
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-qboww&color=178600" alt="Profile Views">
