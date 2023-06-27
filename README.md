@@ -1,3 +1,7 @@
+#What I'm currently working with
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,mongodb)](https://skillicons.dev)
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
