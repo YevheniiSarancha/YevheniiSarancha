@@ -1,5 +1,5 @@
-# What I'm currently working with
-> Here is a languages and frameworks list below
+# I'm currently working with
+> Here are languages and frameworks listed below
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,bootstrap,mysql,mongodb,azure,selenium)](https://skillicons.dev)
 
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-#Socials
+# Socials
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
