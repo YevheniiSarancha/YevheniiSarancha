@@ -14,7 +14,6 @@
   </tr>
 </table>
 
-# Socials
 > Contect me there
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/yevhenko_)
