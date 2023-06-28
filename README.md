@@ -2,7 +2,7 @@
 > 3rd course student of Software engineering and business faculty
 
 ## What I'm currently working with
-> Here are languages and frameworks listed below
+> Technologies I personally love to work with
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,angular,mysql,mongodb,azure,selenium)](https://skillicons.dev)
 
