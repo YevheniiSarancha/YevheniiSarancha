@@ -8,6 +8,7 @@
 
 
 ## GitHub stats
+> Most of these actions were made after March of 2023
 
 <table cellpadding="0">
   <tr style="padding: 0">
