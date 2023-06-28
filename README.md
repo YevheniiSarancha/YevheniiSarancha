@@ -1,7 +1,7 @@
 # Hi, I'm Yevhen - intern full-stack .NET web developer
 > 3rd course student of Software engineering and business faculty
 
-[![Certifications](https://img.shields.io/badge/Certifications-8A2BE2?)](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
+[![Certifications](https://img.shields.io/badge/Certifications-4c8eda?style=for-the-badge)](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
 ## What I'm currently working with
 > Technologies I personally love to work with
