@@ -1,4 +1,4 @@
-# Hi, I'm Yevhen, intern full-stack .NET developer
+# Hi, I'm Yevhen - intern full-stack .NET web developer
 > 3rd course student of Software engineering and business faculty
 
 ## What I'm currently working with
