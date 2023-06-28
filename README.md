@@ -1,14 +1,12 @@
-## Hi, I'm Yevhen, intern full-stack .NET dev
+## Hi, I'm Yevhen, intern full-stack .NET developer
 > 3rd course student of Software engineering and business faculty
 
 ## What I'm currently working with
 > Here are languages and frameworks listed below
-
 [![My Skills](https://skillicons.dev/icons?i=dotnet,angular,mysql,mongodb,azure,selenium)](https://skillicons.dev)
 
 
 ## GitHub stats
-
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
