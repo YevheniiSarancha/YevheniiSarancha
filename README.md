@@ -1,4 +1,5 @@
-## Hi, I'm Yevhen, Intern full-stack .Net dev
+## Hi, I'm Yevhen, intern full-stack .Net dev
+> 3rd course student of Software engineering and business faculty
 
 ## What I'm currently working with
 > Here are languages and frameworks listed below
