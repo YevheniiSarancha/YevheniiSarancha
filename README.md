@@ -7,6 +7,7 @@
 
 
 ## GitHub stats
+
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
