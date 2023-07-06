@@ -6,7 +6,7 @@
 ## What I'm currently working with
 > Technologies I personally love to work with
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,mysql,mongodb,azure,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,ts,angular,mysql,mongodb,azure,selenium)](https://skillicons.dev)
 
 ## GitHub stats
 > Most of these actions were made after March of 2023
