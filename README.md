@@ -1,4 +1,4 @@
-# Intern .NET fullstack web developer
+# Trainee fullstack web dev
 > 3rd course student of Software engineering and business faculty
 > 
 > Certifications I've passed [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
