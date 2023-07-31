@@ -1,5 +1,5 @@
 # Trainee fullstack web dev
-> 3rd course student of Software engineering and business faculty of
+> 3rd course student of [Software engineering and business faculty](https://faculty6.khai.edu/) of
 > 
 > [National Aerospace University "Kharkiv Aviation Institute" (NAU "KhAI")](https://www.google.com/search?q=khai&oq=khai+&aqs=chrome..69i57j0i512j69i65j69i60j69i61j69i65l2j69i60.2651j0j7&sourceid=chrome&ie=UTF-8)
 > 
