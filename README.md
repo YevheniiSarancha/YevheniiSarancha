@@ -1,9 +1,9 @@
-# Trainee fullstack web dev
+#Trainee fullstack web dev
 > 3rd course student of [Software engineering and business faculty](https://faculty6.khai.edu/)
 > 
 > Certifications I've passed [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
-## What I'm currently working with
+##What I'm currently working with
 > Technologies I personally love to work with
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,angular,mysql,mongodb,azure,ts,selenium)](https://skillicons.dev)
