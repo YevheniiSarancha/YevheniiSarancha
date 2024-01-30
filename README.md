@@ -1,7 +1,7 @@
 # Trainee fullstack web dev
 > 3rd course student of [Software engineering and business faculty](https://faculty6.khai.edu/)
 > 
-> Certifications I've passed [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
+> Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
 ## Currently working with
 > Technologies I focus on
