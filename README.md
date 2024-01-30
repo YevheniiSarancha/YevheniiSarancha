@@ -3,8 +3,8 @@
 > 
 > Certifications I've passed [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
-## What I'm currently working with
-> Technologies I personally love to work with
+## Currently working with
+> Technologies I focus on
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redux,docker)](https://skillicons.dev)
 
