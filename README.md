@@ -1,5 +1,5 @@
 # Trainee fullstack web dev
-> 3rd course student of Software engineering and business faculty
+> Third-year student in the Software Engineering and Business faculty
 > 
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
