@@ -4,7 +4,7 @@
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
 ## Currently working with
-> Technologies I focus on
+> Technologies I'm learning now
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redux,docker)](https://skillicons.dev)
 
