@@ -23,19 +23,3 @@
     <img style="height: 200px; flex: 1; width: 400px;"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages" />
 </div>
-
-
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <a href="https://discordapp.com/users/qboww">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-    <a href="https://t.me/Yevhenii_Sarancha">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-            alt="Telegram">
-    </a>
-
-    <a href="">
-        <img src="https://komarev.com/ghpvc/?username=qboww&style=for-the-badge&color=178600" alt="Profile Views">
-    </a>
-</div>
