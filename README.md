@@ -14,12 +14,15 @@
 
 <div style="display: flex; flex-direction: row; gap: 8px;">
     <!-- GitHub Stats Card -->
-    <img style="height: 200px; width: 380px;"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=qboww&count_private=true&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" />
+    <img height="200" width="auto"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=qboww&count_private=true&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats"
+        style="object-fit: cover;" />
     <!-- GitHub Top Language Card -->
-    <img style="height: 200px; width: 300px;"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages" />
+    <img height="200" width="auto"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages"
+        style="object-fit: cover;" />
 </div>
+
 
 
 ##
