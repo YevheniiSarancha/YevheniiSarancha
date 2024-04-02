@@ -25,7 +25,7 @@
 </div>
 
 
-<div>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
     <a href="https://discordapp.com/users/qboww">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
             alt="Discord">
@@ -35,6 +35,7 @@
             alt="Telegram">
     </a>
 
-    <img align="right" src="https://komarev.com/ghpvc/?username=qboww&style=for-the-badge&color=178600"
-        alt="Profile Views">
+    <a href="">
+        <img src="https://komarev.com/ghpvc/?username=qboww&style=for-the-badge&color=178600" alt="Profile Views">
+    </a>
 </div>
