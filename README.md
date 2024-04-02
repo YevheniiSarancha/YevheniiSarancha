@@ -11,7 +11,7 @@
 ## GitHub stats
 > Most of these actions were made after March of 2023
 
-<div style="display: flex; flex-direction: row; gap: 8px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
     <!-- GitHub Stats Card -->
     <img style="height: 200px; width: 440px; flex: 1;"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=qboww&count_private=true&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" />
