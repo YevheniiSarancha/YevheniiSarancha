@@ -17,5 +17,5 @@
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=qboww&count_private=true&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" />
     <!-- GitHub Top Language Card -->
     <img style="height: auto; width: 402px;"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=10&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages" />
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qboww&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages" />
 </div>
