@@ -25,12 +25,16 @@
 </div>
 
 
-<a href="https://discordapp.com/users/qboww">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-        alt="Discord">
-</a>
-<a href="https://t.me/Yevhenii_Sarancha">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-        alt="Telegram">
-</a>
-<img align="right" src="https://komarev.com/ghpvc/?username=qboww&style=for-the-badge&color=178600" alt="Profile Views">
+<div>
+    <a href="https://discordapp.com/users/qboww">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+            alt="Discord">
+    </a>
+    <a href="https://t.me/Yevhenii_Sarancha">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+            alt="Telegram">
+    </a>
+
+    <img align="right" src="https://komarev.com/ghpvc/?username=qboww&style=for-the-badge&color=178600"
+        alt="Profile Views">
+</div>
