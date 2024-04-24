@@ -6,7 +6,7 @@
 ## Currently working with
 > Technologies I'm learning now
 
-[![My Skills](https://skillicons.dev/icons?i=azure,mongodb,nextjs,express,react,nodejs,redux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nextjs,express,react,nodejs,redux,docker)](https://skillicons.dev)
 
 ## GitHub stats
 > Most of these actions were made after March of 2023
