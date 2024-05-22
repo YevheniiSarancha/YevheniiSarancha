@@ -2,6 +2,7 @@
 > Third-year student in the Software Engineering and Business faculty
 >
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
+> Vercel hosted projects [Link](https://vercel.com/yevhenii-saranchas-projects)
 
 ## Currently working with
 > Technologies I'm learning now
