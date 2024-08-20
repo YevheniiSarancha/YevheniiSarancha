@@ -1,4 +1,4 @@
-# Trainee fullstack web dev
+# Junior fullstack web dev
 > Fourth-year student in the Software Engineering and Business faculty
 > 
 > Enrolled in Fullstack React bootcamp at [GoIT](https://goit.global/ua/)
