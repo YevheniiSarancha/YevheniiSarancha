@@ -5,7 +5,7 @@
 >
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 >
-> Settled at [SDA](https://jobs.dou.ua/companies/sda/)
+> Settled at [SDA](https://jobs.dou.ua/companies/sda/) company
 
 ## Currently working with
 > Technologies I'm learning now
