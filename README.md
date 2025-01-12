@@ -1,4 +1,4 @@
-# Junior fullstack web dev
+# Fullstack web dev
 > Fourth-year student in the Software Engineering and Business faculty at [National Aerospace University – Kharkiv Aviation Institute](https://khai.edu/ua/)
 > 
 > Enrolled in Fullstack React bootcamp at [GoIT](https://goit.global/ua/)
