@@ -1,7 +1,5 @@
 # Software Engineer
 > Fourth-year student in the Software Engineering and Business faculty at [National Aerospace University – Kharkiv Aviation Institute](https://khai.edu/ua/)
-> 
-> Enrolled in Fullstack React bootcamp at [GoIT](https://goit.global/ua/)
 >
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 
